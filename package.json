@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@Cronus/man-test-33",
-  "version": "0.1.23",
+  "version": "0.1.233",
   "repository": "https://github.com/CronusMan/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
